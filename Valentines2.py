@@ -10,15 +10,6 @@ df = pd.read_csv("/Users/sangeetha/Downloads/archive/historical_spending.csv")
 
 print(df.head())
 
-'''
-# Manually adding values for 2023-2025
-new_data = pd.DataFrame({
-    'Year': [2023, 2024, 2025],
-    'PercentCelebrating': [52.0, 53.0, 56.0]  # Replace with actual values you want
-})   '''
-
-
-
 # Assuming df is your DataFrame
 sns.set(style="whitegrid")  # Setting the style to whitegrid for a clean background
 # Calculate EMA
