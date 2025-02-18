@@ -1,3 +1,3 @@
 # Valentines Day Analysis (Trend Series Analysis)
-Data Source: https://www.kaggle.com/datasets/joebeachcapital/valentines-day-consumer-data/data (The National Retail Federation).
-The Exponential Moving Average (EMA) smooths time series data by giving more weight to recent points.
+💕 Data Source: https://www.kaggle.com/datasets/joebeachcapital/valentines-day-consumer-data/data (The National Retail Federation).
+The Exponential Moving Average (EMA) smooths time series data by giving more weight to recent points. 💕
